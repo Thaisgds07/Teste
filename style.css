@@ -1,0 +1,34 @@
+body {
+    background-color: #FFFACD;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    opacity: 10;
+}
+
+.container {
+    padding: 20px;
+    font-size: 20px;
+}
+
+h1 {
+    color: #2E8B57;
+    font-size: 40px;
+}
+
+.crying {
+    font-size: 50px;
+    cursor: pointer;
+}
+
+#nao {
+    font-size: 24px;
+    color: #333;
+    background-color: #2E8B57;
+    border: inset;
+    cursor: pointer;
+    position: absolute;
+}
+
+#resposta {
+    font-size: 30px;
+}
